@@ -1,4 +1,4 @@
-package org.dp.RideSharingProblemStatement;
+package org.dp.ProblemStatements.RideSharing;
 
 public abstract class User {
 

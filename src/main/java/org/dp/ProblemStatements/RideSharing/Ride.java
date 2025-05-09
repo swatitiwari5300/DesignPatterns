@@ -1,4 +1,4 @@
-package org.dp.RideSharingProblemStatement;
+package org.dp.ProblemStatements.RideSharing;
 
 enum RideStatus{
     ONGOING, SCHEDULED, COMPLETED;

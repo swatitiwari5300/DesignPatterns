@@ -1,4 +1,4 @@
-package org.dp.RideSharingProblemStatement;
+package org.dp.ProblemStatements.RideSharing;
 
 import java.util.ArrayList;
 import java.util.List;

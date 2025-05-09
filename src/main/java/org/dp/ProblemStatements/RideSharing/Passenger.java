@@ -1,4 +1,4 @@
-package org.dp.RideSharingProblemStatement;
+package org.dp.ProblemStatements.RideSharing;
 
 public class Passenger extends User{
     public Passenger(String name, String email, Location location) {
