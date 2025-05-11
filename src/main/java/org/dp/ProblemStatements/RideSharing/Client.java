@@ -1,7 +1,7 @@
 package org.dp.ProblemStatements.RideSharing;
 
 public class Client {
-
+     //This is the client clss that will interact with the server logic
     public static void main(String[] args) {
         Location loc1 = new Location(12.9716, 77.5946);  // Bangalore
         Location loc2 = new Location(12.9352, 77.6245);  // Near Bangalore
