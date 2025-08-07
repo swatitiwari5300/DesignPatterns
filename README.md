@@ -17,3 +17,4 @@ Reinforce my own learning by coding real examples
 
 Maintain a structured record of concepts I've practiced
 
+Share with others who might find it helpful!
